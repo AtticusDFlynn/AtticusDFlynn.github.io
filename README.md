@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Atticus' Games</title>
 </head>
 <body>
 <h1>Games</h1>
