@@ -6,7 +6,6 @@
 <h1>Student</h1>
 <p>https://4j.instructure.com/?login_success=1</p>
 <p>https://bit.ly/2p7hnCC</p>
-<p>hi</p>
 </body>
 </head>
 <body>
