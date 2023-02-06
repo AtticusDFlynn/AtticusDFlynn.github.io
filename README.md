@@ -3,6 +3,13 @@
 <head>
 </head>
 <body>
+<h1>Student</h1>
+<p>https://4j.instructure.com/?login_success=1</p>
+<p>https://bit.ly/2p7hnCC</p>
+<p>hi</p>
+</body>
+</head>
+<body>
 <h1>Games</h1>
 <p>https://sites.google.com/site/tyroneunblockedgame/home?pli=1</p>
 <p>https://sites.google.com/site/1v1lolunblocked/</p>
