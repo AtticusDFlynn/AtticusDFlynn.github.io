@@ -1,12 +1,15 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Atticus' Games</title>
 </head>
 <body>
-
-<h1>This is a Heading</h1>
+<h1>Games</h1>
 <p>This is a paragraph.</p>
-
+<p>This is another paragraph.</p>
+</body>
+<body>
+<h1>How to bypass</h1>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
 </body>
 </html> 
